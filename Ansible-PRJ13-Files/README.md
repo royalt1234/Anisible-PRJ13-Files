@@ -104,7 +104,7 @@ The folder got downloaded inside the ansible installation folder. I moved it to 
 ```
 sudo mv geerlingguy.mysql/ mysql
 ```
-![](/project-images/ScreenShot_5_10_2022_5_05_42_PM.png)
+![](../Ansible-PRJ13-Files//project-images/ScreenShot_5_10_2022_5_05_42_PM.png)
 
 Now it is time to upload the changes into your GitHub:
 ```
