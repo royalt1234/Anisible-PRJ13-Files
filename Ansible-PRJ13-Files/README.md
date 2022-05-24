@@ -159,7 +159,7 @@ load_balancer_is_required: true
 
 This configuration will tell the playbook to use the Apache role and ignore nginx role when on the dev servers
 
-![](/project-images/nginx-skip-ScreenShot_5_11_2022_6_18_43_PM.png)
+![](../Ansible-PRJ13-Files/project-images/nginx-skip-ScreenShot_5_11_2022_6_18_43_PM.png)
 
 6. Commited the branch to github and merged it to master which triggered the jenkins build.
 
